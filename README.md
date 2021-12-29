@@ -1,3 +1,8 @@
+## AWS Blogs Source Post
+- **[25 Mar 2021 - AWS Health Aware – Customize AWS Health Alerts for Organizational and Personal AWS Accounts](https://aws.amazon.com/blogs/mt/aws-health-aware-customize-aws-health-alerts-for-organizational-and-personal-aws-accounts/)**
+
+----
+
 
 ![](https://github.com/aws-samples/aws-health-aware/blob/main/readme-images/aha_banner.png?raw=1)
 
